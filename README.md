@@ -17,7 +17,6 @@ A curated list of tools implements the concept of Service Mesh
 - [amalgam8](https://github.com/amalgam8/amalgam8) - Content and Version-based Routing Fabric for Polyglot Microservices
 - [ambassador](https://github.com/datawire/ambassador) - Open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
 - [aspen-mesh](https://github.com/aspenmesh) - Enterprise Service Mesh from F5
-- [conduit](https://conduit.io/) - The Ultralight Service Mesh for Kubernetes
 - [consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure
 - [control-plane](https://github.com/envoyproxy/go-control-plane) - Contains a Go-based implementation of an API server that implements the discovery service APIs defined in data-plane-api
 - [dubbo](https://github.com/apache/incubator-dubbo) - Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework
